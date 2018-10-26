@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: '1.0'
   title: "justatest"
-  description: Polls is a simple API allowing consumers to view polls and vote in them.
+  description: Can i change this from github?
   license:
     name: MIT
     url: https://github.com/apiaryio/polls-api/blob/master/LICENSE
